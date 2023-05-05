@@ -150,6 +150,9 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
+
+Samuel and I Lawrence is going to further this project and add some new jquery features
+
 ## Bugs
 No known bugs at this time. 
 
@@ -158,6 +161,8 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Lawrence Nno - [Github](https://github.com/Lawrence-Nno) / [Twitter](https://twitter.com/lawrencenno)
+Samuel Ibudi - 
 
 Second part of Airbnb: Joann Vuong
 ## License
