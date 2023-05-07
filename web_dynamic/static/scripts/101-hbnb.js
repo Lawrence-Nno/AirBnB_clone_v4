@@ -117,8 +117,8 @@ $(document).ready(function () {
             data.forEach(function (review) {
               // console.log(item);
               /* TODO: 
-               * Need to get users.first_name and users.last_name
-               * and place it under reviews in flask
+               * Get users.first_name and users.last_name
+               * and then place it under reviews in flask
                */
               $(`
                 <li>
